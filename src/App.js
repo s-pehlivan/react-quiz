@@ -1,7 +1,13 @@
 import React from "react";
 
+import DateCounter from "./components/DateCounter";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <DateCounter />
+    </div>
+  );
 };
 
 export default App;
