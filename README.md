@@ -18,7 +18,7 @@
 
 
 ## Setup
-To open this project locally, clone the project, run the code 'npm install' to download node modules, and run the project. The 'questions.json' file can be found in the data folder. If you want to use an API, you can use json-server package to fetch the questions. 
+To open this project locally, clone the project, run the code 'npm install' to download node modules, and run the project. The 'questions.json' file can be found in the data folder. If you want to use an API, you can use json-server module to fetch the questions. 
 
 
 ## Project Status
